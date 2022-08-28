@@ -1767,12 +1767,13 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
-`
+Recode : 𝑇𝑧𝑝𝑒𝑟`
 }
 exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
+
+Donasi : 083183321692 (Axis)
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
